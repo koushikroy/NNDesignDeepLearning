@@ -9,6 +9,7 @@ Each folder has a Docs subfolder containing PDF files of
 the chapter and associated slides. 
 For chapters covering code, there is a Code subfolder containing 
 a Jupyter Notebook of the chapter, as well as Jupyter Notebook labs.
+Read the Preface for the book objectives and organization.
 
 **Be aware that this site will be continually evolving. 
 New chapters will be added, and existing chapters will 
